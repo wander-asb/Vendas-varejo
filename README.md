@@ -1,2 +1,11 @@
 # vendas_varejo
-Análise de características de produtos e vendas no varejo
+
+# Pergunta...
+
+Análise de vendas de produtos no varejo
+
+### Introdução
+
+### Metodologia
+
+### Conclusão
