@@ -4,8 +4,8 @@
 
 Análise de vendas de produtos no varejo
 
-### Introdução
+## Introdução
 
-### Metodologia
+## Metodologia
 
-### Conclusão
+## Conclusão
