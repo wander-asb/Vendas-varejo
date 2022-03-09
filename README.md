@@ -1,4 +1,4 @@
-![VENDAS NO VAREJO](https://strapi-m1m.s3.sa-east-1.amazonaws.com/varejo_61e12e72d8.jpg)
+![VENDAS NO VAREJO](https://epaybrasil.com.br/blog/wp-content/uploads/2016/05/estrategias-para-tornar-seu-varejo-uma-maquina-de-vendas-740x360.jpg)
 
 # Análise de vendas de produtos no varejo
 
