@@ -1,4 +1,7 @@
 ![VENDAS NO VAREJO](https://epaybrasil.com.br/blog/wp-content/uploads/2016/05/estrategias-para-tornar-seu-varejo-uma-maquina-de-vendas-740x360.jpg)
+<p align="center">
+  <img width="740" height="360" src="https://epaybrasil.com.br/blog/wp-content/uploads/2016/05/estrategias-para-tornar-seu-varejo-uma-maquina-de-vendas-740x360.jpg">
+</p>
 
 # Análise de vendas de produtos no varejo
 
